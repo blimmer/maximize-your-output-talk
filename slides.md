@@ -51,7 +51,7 @@ These are things that work well for me, and I've seen them work well for some fo
 
 # Talk Outline
 
-- Staying Focus
+- Staying Focused
   - Time tracking
   - Notification management
 
@@ -260,8 +260,8 @@ Scenario:
 
 ### Writing Code + Rabbit Holes
 
-- Awareness of time spent (time tracker)
 - Questions to ask yourself
+- Awareness of time spent (time tracker)
 
 ---
 
@@ -319,3 +319,38 @@ On the train of thought what:
 - am I learning?
 - problem am I solving?
 - am I optimizing?
+
+---
+
+### Rabbit Holes + Time Tracking
+
+> Wait, I've spent how many hours on this so far!?
+> \- Me, in a rabbit hole
+
+---
+
+### Rabbit Holes + Time Tracking
+
+- Data from time tracker invaluable
+- Compare to estimate - are you way off? why?
+
+---
+
+# :question:
+## on rabbit holes?
+
+***
+***
+
+## Asking for Help
+
+:smile: :question: :information_desk_person:
+
+---
+
+## Asking a Good Question
+
+- Ask your question, also provide context
+  - What do you already understand?
+  - What have you tried?
+- Get stuck for **more than 15 minutes**, but **less than an hour**
