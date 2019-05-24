@@ -16,11 +16,8 @@ May 28, 2019
 ### This talk isn't about
 
 - Working more hours :clock6:
-
 - Taking less breaks :no_good: :palm_tree:
-
 - Being heads down 100% of the time :headphones:
-
 - Productivity shame :shame:
 
 ---
@@ -36,9 +33,7 @@ May 28, 2019
 ### This talk is about
 
 - Ways to **stay focused** and produce your best work :triumph:
-
 - Leveraging the natural ebbs and flows in your productivity :wavy_dash:
-
 - Self awareness while developing a story :point_right: :smile: :point_left:
 
 ---
@@ -126,11 +121,6 @@ Breaks in each section are **not only for questions**, please also speak up and 
 - Free
 - Plenty of alternatives!
 
----
-
-# :bulb:
-## Questions / experiences with time tracking?
-
 ***
 ***
 
@@ -174,15 +164,6 @@ Breaks in each section are **not only for questions**, please also speak up and 
 - Turn off macOS global notifications
 - Let folks know / build in time to "catch up"
 
----
-
-![](/images/slack1.png)
-
----
-
-# :bulb:
-## Questions / experiences with reducing distractions?
-
 ***
 ***
 
@@ -214,23 +195,34 @@ Breaks in each section are **not only for questions**, please also speak up and 
 
 ---
 
-# :bulb:
-## Questions / experiences with productivity ebbs and flows?
+## Discussion time!
+
+- Time tracking :alarm_clock:
+- Reducing distractions :cyclone: :smile: :cyclone:
+- Leveraging ebbs and flows :cactus: :left_right_arrow: :ocean:
+
+***
+***
+
+# Halfway there!
+
+- ~~Staying Focused~~
+  - ~~Time tracking~~
+  - ~~Reducing distractions~~
+  - ~~Ebbs and flows of productivity~~
+- Optimizing Story Work & Tasks
+  - Planning
+  - Rabbit Holes
+  - Asking for Help
 
 ***
 ***
 
 ## Optimizing Story Work & Tasks
 
-:pencil: :chart_with_upwards_trend:
-
----
-
-## Optimizing Story Work & Tasks
-
-- Planning
-- Avoiding Rabbit Holes
-- Asking for Help
+- Planning :pencil:
+- Rabbit Holes :rabbit: :hole:
+- Asking For Help :raising_hand: :question: :information_desk_person:
 
 ---
 
@@ -238,7 +230,7 @@ Breaks in each section are **not only for questions**, please also speak up and 
 
 Think of two stories:
 
-- one that you knocked out quickly
+- one that you executed against quickly
 - one that took much longer than expected
 
 What were some characteristics of the stories that took longer?
@@ -255,7 +247,7 @@ Takes a good amount of time but, pays dividends during execution.
 
 - What, specifically, is in-scope
 - What's out of scope
-- Point or estimate work size (timebox)
+- Point or estimate work size
 - Leverage experience on the team
 
 ---
@@ -267,23 +259,31 @@ Takes a good amount of time but, pays dividends during execution.
 
 ---
 
-### Planning + Time Tracking
+### Planning as a % of your time
 
 Scenario:
 
 - 1 hour planning once per sprint
-- ((20 hours / week coding) * 2 week sprints)
+- 20 hours per week coding * 2 week sprints
 - = **2%** of your coding time
 
 ---
 
-### Planning + Time Tracking
+### Planning as a % of your time
 
 Scenario:
 
 - 2.5 hour planning once per sprint
-- ((20 hours / week coding) * 2 week sprints)
+- 20 hours per week coding * 2 week sprints
 - = **6%** of your coding time
+
+---
+
+### Planning as a % of your time
+
+- Take the time to get acceptance criteria locked in
+- Alignment as a team
+- :pray: Heather Daymon for enlightening me
 
 ---
 
@@ -292,19 +292,30 @@ Scenario:
 - Plan the approach **before** writing any code
 - Much easier to parallelize options in your brain vs. in code
 - Take notes!
+- Start writing when you have a plan
 
 ---
 
-### Writing Code + Rabbit Holes
+### Rabbit Holes
 
 ![victimized](https://i.imgflip.com/31tee8.jpg)
 
 ---
 
-### Writing Code + Rabbit Holes
+### Rabbit Holes
 
 - Questions to ask yourself
-- Awareness of time spent (time tracker)
+- Awareness of time spent
+
+---
+
+### Rabbit Hole Questions
+
+On the train of thought what:
+
+- am I learning?
+- problem am I solving?
+- am I optimizing?
 
 ---
 
@@ -319,9 +330,10 @@ On this train of thought what __am I learning__?
 On this train of thought what __am I learning__?
 
 - Wat ...
-  - why am I on this blog post!?
+  - how did I get to this blog post / wiki page?
 - Something needed to deliver the story ...
   - Have you learned enough to deliver the story?
+  - Is there more to learn later?
 
 ---
 
@@ -375,23 +387,19 @@ On the train of thought what:
 ### Rabbit Holes + Time Tracking
 
 - Data from time tracker invaluable
-- Compare to estimate - are you way off? why?
-
----
-
-# :question:
-## on rabbit holes?
+- Compare to team estimation - are you way off? why?
+- Work to reduce your MTTD that you're in a rabbit hole
 
 ***
 ***
 
 ## Asking for Help
 
-:smile: :question: :information_desk_person:
+:raising_hand: :question: :information_desk_person:
 
 ---
 
-## Asking a Good Question
+## Asking a Contextual Question
 
 - Ask your question, also provide context
   - What do you already understand?
@@ -400,8 +408,8 @@ On the train of thought what:
 
 ---
 
-Question slide
+## Discussion time!
 
-***
-***
-
+- Planning :pencil:
+- Rabbit Holes :rabbit: :hole:
+- Asking For Help :raising_hand: :question: :information_desk_person:
