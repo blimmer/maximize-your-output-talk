@@ -1,4 +1,5 @@
-# Work Smarter :thinking:, not harder :hammer:
+# Maximize your Output
+(sans "productivity shame")
 
 Ben Limmer
 @blimmer
@@ -16,33 +17,41 @@ May 28, 2019
 ### This talk isn't about
 
 - Working more hours :clock6:
-- Taking less breaks :no_good: :palm_tree:
+- Becoming a Pomodoro master :tomato:
 - Being heads down 100% of the time :headphones:
-- Productivity shame :shame:
+- Productivity shame :worried:
 
 ---
 
-### Productivity Shame
+### Productivity shame
+
+> "Productivity Shame" is the act of regularly setting unrealistic expectations for what you can accomplish, and then beating yourself up when you fall short.
+>
+> \- Jocelyn K. Glei
+
+---
+
+### Productivity shame
 
 > “Like battery acid, productivity shame is a toxic substance that slowly corrodes your ability to take any joy in your work.”
 >
-> \- Jocelyn K. Glei (RESET course)
+> \- Jocelyn K. Glei
 
 ---
 
 ### This talk is about
 
-- Ways to **stay focused** and produce your best work :triumph:
-- Leveraging the natural ebbs and flows in your productivity :wavy_dash:
-- Self awareness while developing a story :point_right: :smile: :point_left:
+- Tips to **stay focused** and produce your best work :muscle: :triumph:
+- Understanding and hacking natural ebbs and flows in your productivity :wavy_dash:
+- Tips to **stay on track** when delivering a story :point_right: :smile: :point_left:
 
 ---
 
 ### Disclaimer
 
-These are things that work well for me, and I've seen them work well for some folks. If they don't work for you, that's OK!
+These are things that work well for me, and I've seen them work well for other folks. If they don't work for you, that's OK!
 
-Breaks in each section are **not only for questions**, please also speak up and **provide your experience**!
+Breaks in each section are **not only for questions**, please also **provide your experience and tips**!
 
 ***
 
@@ -255,6 +264,7 @@ Takes a good amount of time but, pays dividends during execution.
 ### Planning
 
 > Planning takes too much time. I should be writing code.
+>
 > \- Everyone
 
 ---
