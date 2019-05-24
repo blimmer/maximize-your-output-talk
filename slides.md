@@ -413,3 +413,11 @@ On the train of thought what:
 - Planning :pencil:
 - Rabbit Holes :rabbit: :hole:
 - Asking For Help :raising_hand: :question: :information_desk_person:
+
+***
+***
+
+![](https://media.giphy.com/media/nU704Y2jeFOHm/giphy.gif)
+
+***
+***
