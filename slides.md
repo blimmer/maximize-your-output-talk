@@ -47,13 +47,20 @@ May 28, 2019
 
 These are things that work well for me, and I've seen them work well for some folks. If they don't work for you, that's OK!
 
+Breaks in each section are **not only for questions**, please also speak up and **provide your experience**!
+
 ***
 
 # Talk Outline
 
 - Staying Focused
   - Time tracking
-  - Notification management
+  - Reducing distractions
+  - Ebbs and flows of productivity
+- Optimizing Story Work & Tasks
+  - Planning
+  - Rabbit Holes
+  - Asking for Help
 
 ***
 
@@ -69,11 +76,13 @@ These are things that work well for me, and I've seen them work well for some fo
 
 ---
 
-### Coping Mechanisms
+### Staying focused
 
 - Time tracking :alarm_clock:
 
 - Reduce distractions :cyclone: :smile: :cyclone:
+
+- Leveraging ebbs and flows (TODO)
 
 ***
 ***
@@ -354,3 +363,11 @@ On the train of thought what:
   - What do you already understand?
   - What have you tried?
 - Get stuck for **more than 15 minutes**, but **less than an hour**
+
+---
+
+Question slide
+
+***
+***
+
