@@ -68,24 +68,18 @@ Breaks in each section are **not only for questions**, please also speak up and 
 
 ---
 
-### Distractions!
-
-- Open office (collaboration benefits are a [myth](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2017.0239))
-
-- Notifications (slack, email, apps on your phone)
-
----
-
 ### Staying focused
 
 - Time tracking :alarm_clock:
-
 - Reduce distractions :cyclone: :smile: :cyclone:
-
-- Leveraging ebbs and flows (TODO)
+- Leverage ebbs and flows :cactus: :left_right_arrow: :ocean:
 
 ***
 ***
+
+### Time Tracking
+
+---
 
 ### Time Tracking
 
@@ -109,14 +103,12 @@ Breaks in each section are **not only for questions**, please also speak up and 
 ### Time Tracking Data
 
 - What am I spending time on?
-
 - Am I dedicating time appropriately between categories?
-
-- Do I want to take the time to switch categories?
+- Am I stuck and haven't realized it yet?
 
 ---
 
-<img src="images/toggl2.png" alt="my toggl categories" style="margin-top: 0; height: 75vh;">
+<img src="images/toggl2.png" alt="my toggl categories" style="margin-top: 0; height: 50vh;">
 
 ---
 
@@ -128,12 +120,16 @@ Breaks in each section are **not only for questions**, please also speak up and 
 
 ---
 
-# toggl.com
+### toggl.com
+
+- The tool I use
+- Free
+- Plenty of alternatives!
 
 ---
 
-# :question:
-## on time tracking?
+# :bulb:
+## Questions / experiences with time tracking?
 
 ***
 ***
@@ -175,13 +171,51 @@ Breaks in each section are **not only for questions**, please also speak up and 
 
 - Snooze slack notifications
 - Do Not Disturb mode on your phone
-- MacOS global notifications
+- Turn off macOS global notifications
 - Let folks know / build in time to "catch up"
 
 ---
 
-# :question:
-## on reducing distractions?
+![](/images/slack1.png)
+
+---
+
+# :bulb:
+## Questions / experiences with reducing distractions?
+
+***
+***
+
+## Leveraging Ebbs and Flows
+
+:cactus: :left_right_arrow: :ocean:
+
+---
+
+## Leveraging Ebbs and Flows
+
+- We are not machines :robot:
+- What supports your mood and productivity? :runner: :video_game:
+- When are you most productive? :sun_with_face: :new_moon_with_face:
+
+---
+
+<img src="images/heatmap.png" alt="productivity heatmap" style="margin-top: 0; height: 50vh;">
+
+[source](https://medium.com/the-mission/heat-map-your-schedule-to-boost-productivity-4e2e50ffd1d9)
+
+---
+
+## Leveraging Ebbs and Flows
+
+- Be aware of your natural productivity rhythm and harness it
+- Take quick breaks, even when you're feeling productive
+- Write a note before your break to get back into it quickly
+
+---
+
+# :bulb:
+## Questions / experiences with productivity ebbs and flows?
 
 ***
 ***
