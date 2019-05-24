@@ -35,7 +35,7 @@ May 28, 2019
 
 ### This talk is about
 
-- Ways to stay focused and produce your best work :triumph:
+- Ways to **stay focused** and produce your best work :triumph:
 
 - Leveraging the natural ebbs and flows in your productivity :wavy_dash:
 
@@ -176,3 +176,146 @@ These are things that work well for me, and I've seen them work well for some fo
 
 ***
 ***
+
+## Optimizing Story Work & Tasks
+
+:pencil: :chart_with_upwards_trend:
+
+---
+
+## Optimizing Story Work & Tasks
+
+- Planning
+- Avoiding Rabbit Holes
+- Asking for Help
+
+---
+
+### Planning
+
+Think of two stories:
+
+- one that you knocked out quickly
+- one that took much longer than expected
+
+What were some characteristics of the stories that took longer?
+
+---
+
+### Planning + Acceptance Criteria
+
+Takes a good amount of time but, pays dividends during execution.
+
+---
+
+### Planning + Acceptance Criteria
+
+- What, specifically, is in-scope
+- What's out of scope
+- Point or estimate work size (timebox)
+- Leverage experience on the team
+
+---
+
+### Planning
+
+> Planning takes too much time. I should be writing code.
+> \- Everyone
+
+---
+
+### Planning + Time Tracking
+
+Scenario:
+
+- 1 hour planning once per sprint
+- ((20 hours / week coding) * 2 week sprints)
+- = **2%** of your coding time
+
+---
+
+### Planning + Time Tracking
+
+Scenario:
+
+- 2.5 hour planning once per sprint
+- ((20 hours / week coding) * 2 week sprints)
+- = **6%** of your coding time
+
+---
+
+### Planning + Reading Code
+
+- Plan the approach **before** writing any code
+- Much easier to parallelize options in your brain vs. in code
+- Take notes!
+
+---
+
+### Writing Code + Rabbit Holes
+
+![victimized](https://i.imgflip.com/31tee8.jpg)
+
+---
+
+### Writing Code + Rabbit Holes
+
+- Awareness of time spent (time tracker)
+- Questions to ask yourself
+
+---
+
+### Rabbit Hole Question 1
+
+On this train of thought what __am I learning__?
+
+---
+
+### Rabbit Hole Question 1
+
+On this train of thought what __am I learning__?
+
+- Wat ...
+  - why am I on this blog post!?
+- Something needed to deliver the story ...
+  - Have you learned enough to deliver the story?
+
+---
+
+### Rabbit Hole Question 2
+
+On this train of thought what __problem am I solving__?
+
+---
+
+### Rabbit Hole Question 2
+
+On this train of thought what __problem am I solving__?
+
+- Is it in the acceptance criteria?
+- Do I need to solve it now?
+
+---
+
+### Rabbit Hole Question 3
+
+On this train of thought what __am I optimizing__?
+
+---
+
+### Rabbit Hole Question 3
+
+On this train of thought what __am I optimizing__?
+
+- Is it a valuable optimization?
+- Is it too early to worry about this?
+
+---
+
+### Rabbit Hole Questions
+
+On the train of thought what:
+
+- am I learning?
+- problem am I solving?
+- am I optimizing?
