@@ -54,6 +54,14 @@ These are things that work well for me, and I've seen them work well for other f
 Breaks in each section are **not only for questions**, please also **provide your experience and tips**!
 
 ***
+***
+
+# Talk Outline
+
+- Staying Focused
+- Optimizing Story Work & Tasks
+
+---
 
 # Talk Outline
 
@@ -62,10 +70,18 @@ Breaks in each section are **not only for questions**, please also **provide you
   - Reducing distractions
   - Ebbs and flows of productivity
 - Optimizing Story Work & Tasks
+
+---
+
+# Talk Outline
+
+- Staying Focused
+- Optimizing Story Work & Tasks
   - Planning
   - Rabbit Holes
   - Asking for Help
 
+***
 ***
 
 # Staying Focused
@@ -82,6 +98,8 @@ Breaks in each section are **not only for questions**, please also **provide you
 ***
 
 ### Time Tracking
+
+![punch the clock](https://media.giphy.com/media/ZiEkOPWd1VB7i/giphy.gif)
 
 ---
 
@@ -157,6 +175,20 @@ Breaks in each section are **not only for questions**, please also **provide you
 - Increase creative output
 - Execute without IRL distractions
 - Have more control over your environment
+
+---
+
+## Open Office
+
+![heavy breathing](https://media.giphy.com/media/Ny0wKKu09ppug/giphy.gif)
+
+---
+
+## Change your scenery
+
+- Work from home
+- Work in Owens
+- Head to a coffee shop
 
 ---
 
@@ -254,9 +286,9 @@ Takes a good amount of time but, pays dividends during execution.
 
 ### Planning + Acceptance Criteria
 
-- What, specifically, is in-scope
-- What's out of scope
-- Point or estimate work size
+- What, specifically, is **in-scope**?
+- What's **out of scope**?
+- Point or **estimate effort**
 - Leverage experience on the team
 
 ---
@@ -308,6 +340,12 @@ Scenario:
 
 ### Rabbit Holes
 
+:rabbit: :hole:
+
+---
+
+### Rabbit Holes
+
 ![victimized](https://i.imgflip.com/31tee8.jpg)
 
 ---
@@ -321,11 +359,11 @@ Scenario:
 
 ### Rabbit Hole Questions
 
-On the train of thought what:
+On this current train of thought what:
 
-- am I learning?
-- problem am I solving?
-- am I optimizing?
+- am I **learning**?
+- problem am I **solving**?
+- am I **optimizing**?
 
 ---
 
@@ -379,7 +417,7 @@ On this train of thought what __am I optimizing__?
 
 ### Rabbit Hole Questions
 
-On the train of thought what:
+On this current train of thought what:
 
 - am I learning?
 - problem am I solving?
@@ -390,6 +428,7 @@ On the train of thought what:
 ### Rabbit Holes + Time Tracking
 
 > Wait, I've spent how many hours on this so far!?
+>
 > \- Me, in a rabbit hole
 
 ---
