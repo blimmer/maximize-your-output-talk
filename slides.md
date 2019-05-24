@@ -49,7 +49,11 @@ These are things that work well for me, and I've seen them work well for some fo
 
 ***
 
-# TODO: Talk Outline
+# Talk Outline
+
+- Staying Focus
+  - Time tracking
+  - Notification management
 
 ***
 
@@ -162,6 +166,7 @@ These are things that work well for me, and I've seen them work well for some fo
 
 - Snooze slack notifications
 - Do Not Disturb mode on your phone
+- MacOS global notifications
 - Let folks know / build in time to "catch up"
 
 ---
