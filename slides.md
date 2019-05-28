@@ -587,12 +587,48 @@ On this current train of thought what:
 ***
 ***
 
-![](https://media.giphy.com/media/nU704Y2jeFOHm/giphy.gif)
+## Productivity shame
+
+- Set attainable, realistic goals
+
+---
+
+## Productivity shame
+
+- Set attainable, realistic goals
+- Don't try all of this at the outset
+
+---
+
+## Productivity shame
+
+- Set attainable, realistic goals
+- Don't try all of this at the outset
+- Don't beat yourself up for not being productive enough
+
+---
+
+I do everything in this talk 100% of the time!
+
+---
+
+## Spoiler Alert
+
+~~I do everything in this talk 100% of the time!~~
+
+---
+
+![spark joy](https://media.giphy.com/media/1hAY7e48s9lTMYvxG3/giphy.gif)
 
 ***
 ***
 
-![](images/feedback.png)
+![thank you](https://media.giphy.com/media/nU704Y2jeFOHm/giphy.gif)
+
+***
+***
+
+![QR for survey](images/feedback.png)
 
 [https://www.surveymonkey.com/r/maxoutput](https://www.surveymonkey.com/r/maxoutput)
 
