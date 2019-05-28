@@ -125,6 +125,19 @@ Breaks in each section are **not only for questions**, please also **provide you
 ### Time Tracking Data
 
 - What am I spending time on?
+
+---
+
+### Time Tracking Data
+
+- What am I spending time on?
+- Am I dedicating time appropriately between categories?
+
+---
+
+### Time Tracking Data
+
+- What am I spending time on?
 - Am I dedicating time appropriately between categories?
 - Am I stuck and haven't realized it yet?
 
@@ -173,6 +186,19 @@ Breaks in each section are **not only for questions**, please also **provide you
 ## Change your scenery
 
 - Increase creative output
+
+---
+
+## Change your scenery
+
+- Increase creative output
+- Execute without IRL distractions
+
+---
+
+## Change your scenery
+
+- Increase creative output
 - Execute without IRL distractions
 - Have more control over your environment
 
@@ -201,6 +227,31 @@ Breaks in each section are **not only for questions**, please also **provide you
 ## Mute notifications
 
 - Snooze slack notifications
+
+---
+
+![](images/slack1.png)
+
+---
+
+## Mute notifications
+
+- Snooze slack notifications
+- Do Not Disturb mode on your phone
+
+---
+
+## Mute notifications
+
+- Snooze slack notifications
+- Do Not Disturb mode on your phone
+- Turn off macOS global notifications
+
+---
+
+## Mute notifications
+
+- Snooze slack notifications
 - Do Not Disturb mode on your phone
 - Turn off macOS global notifications
 - Let folks know / build in time to "catch up"
@@ -217,6 +268,19 @@ Breaks in each section are **not only for questions**, please also **provide you
 ## Leveraging Ebbs and Flows
 
 - We are not machines :robot:
+
+---
+
+## Leveraging Ebbs and Flows
+
+- We are not machines :robot:
+- What supports your mood and productivity? :runner: :video_game:
+
+---
+
+## Leveraging Ebbs and Flows
+
+- We are not machines :robot:
 - What supports your mood and productivity? :runner: :video_game:
 - When are you most productive? :sun_with_face: :new_moon_with_face:
 
@@ -225,6 +289,19 @@ Breaks in each section are **not only for questions**, please also **provide you
 <img src="images/heatmap.png" alt="productivity heatmap" style="margin-top: 0; height: 50vh;">
 
 [source](https://medium.com/the-mission/heat-map-your-schedule-to-boost-productivity-4e2e50ffd1d9)
+
+---
+
+## Leveraging Ebbs and Flows
+
+- Be aware of your natural productivity rhythm and harness it
+
+---
+
+## Leveraging Ebbs and Flows
+
+- Be aware of your natural productivity rhythm and harness it
+- Take quick breaks, even when you're feeling productive
 
 ---
 
@@ -325,7 +402,21 @@ Scenario:
 
 - Take the time to get acceptance criteria locked in
 - Alignment as a team
-- :pray: Heather Daymon for enlightening me
+
+---
+
+### Planning + Reading Code
+
+- Plan the approach **before** writing any code
+- Much easier to parallelize options in your brain vs. in code
+
+---
+
+### Planning + Reading Code
+
+- Plan the approach **before** writing any code
+- Much easier to parallelize options in your brain vs. in code
+- Take notes!
 
 ---
 
@@ -379,6 +470,15 @@ On this train of thought what __am I learning__?
 
 - Wat ...
   - how did I get to this blog post / wiki page?
+
+---
+
+### Rabbit Hole Question 1
+
+On this train of thought what __am I learning__?
+
+- Wat ...
+  - how did I get to this blog post / wiki page?
 - Something needed to deliver the story ...
   - Have you learned enough to deliver the story?
   - Is there more to learn later?
@@ -419,9 +519,9 @@ On this train of thought what __am I optimizing__?
 
 On this current train of thought what:
 
-- am I learning?
-- problem am I solving?
-- am I optimizing?
+- am I **learning**?
+- problem am I **solving**?
+- am I **optimizing**?
 
 ---
 
@@ -430,6 +530,19 @@ On this current train of thought what:
 > Wait, I've spent how many hours on this so far!?
 >
 > \- Me, in a rabbit hole
+
+---
+
+### Rabbit Holes + Time Tracking
+
+- Data from time tracker invaluable
+
+---
+
+### Rabbit Holes + Time Tracking
+
+- Data from time tracker invaluable
+- Compare to team estimation - are you way off? why?
 
 ---
 
@@ -445,6 +558,14 @@ On this current train of thought what:
 ## Asking for Help
 
 :raising_hand: :question: :information_desk_person:
+
+---
+
+## Asking a Contextual Question
+
+- Ask your question, also provide context
+  - What do you already understand?
+  - What have you tried?
 
 ---
 
