@@ -23,8 +23,6 @@ May 28, 2019
 
 ---
 
-### Productivity shame
-
 > "Productivity Shame" is the act of regularly setting unrealistic expectations for what you can accomplish, and then beating yourself up when you fall short.
 >
 > \- Jocelyn K. Glei
@@ -349,7 +347,7 @@ What were some characteristics of the stories that took longer?
 
 ### Planning + Acceptance Criteria
 
-Takes a good amount of time but, pays dividends during execution.
+Takes a good amount of time but pays dividends during execution.
 
 ---
 
@@ -472,8 +470,8 @@ On this train of thought what __am I learning__?
 - Wat ...
   - how did I get to this blog post / wiki page?
 - Something needed to deliver the story ...
-  - Have you learned enough to deliver the story?
-  - Is there more to learn later?
+  - have I learned enough to deliver the story?
+  - is there more to learn later?
 
 ---
 
@@ -504,6 +502,7 @@ On this train of thought what __am I optimizing__?
 
 - Is it a valuable optimization?
 - Is it too early to worry about this?
+- What's simplest?
 
 ---
 
@@ -596,7 +595,7 @@ On this current train of thought what:
 
 - Set attainable, realistic goals
 - Don't try all of this at the outset
-- Don't beat yourself up for not being productive enough
+- Don't beat yourself up for not being "productive 100% of the time"
 
 ---
 
