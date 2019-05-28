@@ -31,14 +31,6 @@ May 28, 2019
 
 ---
 
-### Productivity shame
-
-> “Like battery acid, productivity shame is a toxic substance that slowly corrodes your ability to take any joy in your work.”
->
-> \- Jocelyn K. Glei
-
----
-
 ### This talk is about
 
 - Tips to **stay focused** and produce your best work :muscle: :triumph:
@@ -617,6 +609,15 @@ I do everything in this talk 100% of the time!
 ~~I do everything in this talk 100% of the time!~~
 
 ---
+
+---
+
+### Productivity shame
+
+> “Like battery acid, productivity shame is a toxic substance that slowly corrodes your ability to take any joy in your work.”
+>
+> \- Jocelyn K. Glei
+
 
 ![spark joy](https://media.giphy.com/media/1hAY7e48s9lTMYvxG3/giphy.gif)
 
