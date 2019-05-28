@@ -618,6 +618,7 @@ I do everything in this talk 100% of the time!
 >
 > \- Jocelyn K. Glei
 
+---
 
 ![spark joy](https://media.giphy.com/media/1hAY7e48s9lTMYvxG3/giphy.gif)
 
