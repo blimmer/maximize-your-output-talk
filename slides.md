@@ -4,7 +4,7 @@
 Ben Limmer
 @blimmer
 
-May 28, 2019
+June 3, 2019
 
 ***
 
@@ -239,6 +239,14 @@ Breaks in each section are **not only for questions**, please also **provide you
 
 ---
 
+![macOS global notifications disable with option click](images/macos_notifications_disable.png)
+
+---
+
+![macOS global notifications disabled](images/macos_notifications_disabled.png)
+
+---
+
 ## Mute notifications
 
 - Snooze slack notifications
@@ -264,14 +272,14 @@ Breaks in each section are **not only for questions**, please also **provide you
 ## Leveraging Ebbs and Flows
 
 - We are not machines :robot:
-- What supports your mood and productivity? :runner: :video_game:
+- What supports your mood and productivity? :runner: :baby: :video_game:
 
 ---
 
 ## Leveraging Ebbs and Flows
 
 - We are not machines :robot:
-- What supports your mood and productivity? :runner: :video_game:
+- What supports your mood and productivity? :runner: :baby: :video_game:
 - When are you most productive? :sun_with_face: :new_moon_with_face:
 
 ---
@@ -300,6 +308,10 @@ Breaks in each section are **not only for questions**, please also **provide you
 - Be aware of your natural productivity rhythm and harness it
 - Take quick breaks, even when you're feeling productive
 - Write a note before your break to get back into it quickly
+
+---
+
+![sticky note reminder](images/sticky_note.png)
 
 ---
 
@@ -609,8 +621,6 @@ I do everything in this talk 100% of the time!
 
 ---
 
----
-
 ### Productivity shame
 
 > “Like battery acid, productivity shame is a toxic substance that slowly corrodes your ability to take any joy in your work.”
@@ -629,7 +639,7 @@ I do everything in this talk 100% of the time!
 ***
 ***
 
-![QR for survey](images/feedback.png)
+![QR for survey](images/QR_code_maxoutput.png)
 
 [https://www.surveymonkey.com/r/maxoutput](https://www.surveymonkey.com/r/maxoutput)
 
