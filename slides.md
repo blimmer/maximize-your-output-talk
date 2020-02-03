@@ -4,8 +4,6 @@
 Ben Limmer
 @blimmer
 
-September 10, 2019
-
 ***
 
 :neutral_face:
